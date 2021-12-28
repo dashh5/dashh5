@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dashh5
-- 👀 I’m interested in building consumer products
-- 🌱 I’m currently learning front-end design & Swift topics
-- 💞️ I’m looking to collaborate on anything that will make a difference in the world
+- 👀 I’m interested in iOS & ML. 
+- 🌱 I’m currently learning intermediate SwiftUI & ML algos w/ Python. 
+- 💞️ I’m looking to collaborate on a consumer software startup. 
 - 📫 How to reach me: amehregan@berkeley.edu
 
 <!---
